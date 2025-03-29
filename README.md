@@ -33,7 +33,7 @@ This is a **PCB design** for a **Transformerless Power Supply**, created using *
 
 ## 🔗 Links  
 - 🚀 **Project Discussion on LinkedIn**: [LinkedIn](https://www.linkedin.com/)  
-- 📺 **Ampnics Tutorial**: [YouTube Playlist](https://youtube.com/)  
+- 📺 **Ampnics Tutorial**: [YouTube Playlist](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_) 
 
 ## 📜 License  
 This project is licensed under the **MIT License** – feel free to use and modify it!
