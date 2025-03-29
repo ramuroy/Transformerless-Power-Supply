@@ -24,7 +24,7 @@ This is a **PCB design** for a **Transformerless Power Supply**, created using *
 ## 🖼️ Preview Images  
 | Schematic | PCB Layout | 3D Render |
 |-----------|------------|------------|
-| ![Schematic](Images/Schematic.png) | ![PCB](Images/pcb_layout.png) | ![3D](Images/3d_render 1.png) |
+| ![Schematic](Images/Schematic.png) | ![PCB](Images/pcb_layout.png) | ![3D](Images/3d_render.png) |
 
 ## 🔧 How to Use  
 1️⃣ **Open the KiCad files** in `/Schematics/` and `/PCB_Design/`.  
