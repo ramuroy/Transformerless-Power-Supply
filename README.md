@@ -1,5 +1,10 @@
 # ⚡ Transformerless Power Supply PCB
 
+![KiCad](https://img.shields.io/badge/Design-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![PCB](https://img.shields.io/badge/Type-PCB%20Hardware-2b7489?style=flat-square)
+![Output](https://img.shields.io/badge/Output-5V%20DC-e10600?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-3da639?style=flat-square)
+
 ## 📌 Overview  
 This is a **PCB design** for a **Transformerless Power Supply**, created using **KiCad**. This circuit provides a **regulated 5V DC output** using an **LM7805 voltage regulator**. The design eliminates the need for bulky transformers, making it compact and efficient.
 
