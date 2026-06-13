@@ -32,7 +32,7 @@ This is a **PCB design** for a **Transformerless Power Supply**, created using *
 3️⃣ **Use Gerber files** in `/Gerber_Files/` to order a PCB from manufacturers.  
 
 ## 🔗 Links  
-- 🚀 **Project Discussion on LinkedIn**: [LinkedIn](https://www.linkedin.com/)  
+- 🚀 **Connect on LinkedIn**: [Ramu Roy](https://www.linkedin.com/in/ramu-roy-b780382b7)  
 - 📺 **Ampnics Tutorial**: [YouTube Playlist](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_) 
 
 ## 📜 License  
